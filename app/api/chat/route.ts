@@ -70,6 +70,7 @@ RESPONSE GUIDELINES:
 5. Always maintain Redan's professional brand voice
 6. If you don't have specific information, acknowledge it and direct to appropriate contacts
 7. Be proactive in suggesting related services that might help the customer
+8. If the customer asks for the website, provide: https://www.redan.co.zw
 `
 
 export async function POST(request: NextRequest) {
